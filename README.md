@@ -11,16 +11,16 @@ Certifique-se de ter o Java instalado no seu computador.
    git clone https://github.com/Giovana-Manuquian/ListCadastro.git
    
 2. Navegue até o diretório do projeto:
-
-cd ListCadastro
+   ```bash
+   cd ListCadastro
 
 3. Compile os arquivos Java:
-
-javac *.java
+   ```bash
+   javac *.java
 
 4. Execute o programa:
-
-java App
+   ```bash
+   java App
 
 5. Siga as instruções no menu para adicionar produtos e listar produtos cadastrados.
 
