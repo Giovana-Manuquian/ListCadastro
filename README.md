@@ -26,14 +26,14 @@ Certifique-se de ter o Java instalado no seu computador.
 
 <h1>Funcionalidades</h1>
 
-Adicionar produtos com nome, preço e quantidade em estoque.
-Listar os produtos cadastrados.
+Adicionar produtos com nome, preço e quantidade em estoque.</br>
+Listar os produtos cadastrados.</br>
 Encerrar o programa.
 
 <h1>Estrutura do Projeto</h1>
 
-App.java: Classe principal que inicia o programa.
-Menu.java: Classe que controla o menu e a interação com o usuário.
+App.java: Classe principal que inicia o programa.</br>
+Menu.java: Classe que controla o menu e a interação com o usuário.</br>
 Produto.java: Classe que define a estrutura de um produto e permite adicionar informações de produtos.
 
 <h1>Autora</h1>
